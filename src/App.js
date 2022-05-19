@@ -1,9 +1,10 @@
 import './App.css'
+import ToDo from './components/ToDoPage/ToDo'
 
 function App() {
     return (
         <div className="">
-            <h1>hello world</h1>
+            <ToDo />
         </div>
     )
 }
